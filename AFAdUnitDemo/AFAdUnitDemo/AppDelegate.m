@@ -96,6 +96,12 @@
     
 }
 
+- (BOOL)shouldDisplayModalAd {
+    
+    return YES;
+    
+}
+
 - (void)modalAdWillAppear {
     
     NSLog(@"%s", __PRETTY_FUNCTION__);

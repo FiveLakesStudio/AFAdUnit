@@ -1,4 +1,0 @@
-AFAdUnit
-========
-
-AppsFire Ad Unit
